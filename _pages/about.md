@@ -25,7 +25,8 @@ Email: mu_zhaoyu@u.nus.edu
 
 ## INTERNSHIP & WORK EXPERIENCE
 * Research Intern, Agency For Science and Technology, CFAR, Singapore May 2024 - Aug 2024
-  * Enhanced performance of SOTA dataset distillation method minimax diffusion by 1.3%.
+  * Explored diffusion-based dataset distillation methods.
+  * Investigated the impact of mixing real and synthesized images on model performance.
 
 * AI Intern, Tencent, Beijing, China Feb 2022 - Jun 2022
   * Proposed and implemented a solution to reduce false positive rates in Tencent Video AI-based Black/Blurred screen detection network; improved model's recall and accuracy by about 5% after deployment online.
