@@ -9,7 +9,7 @@
 # Basic Site Settings
 locale                   : "en-US"
 site_theme               : "default"
-title                    : "Mu Zhaoyu/ Personal Website"
+title                    : "Welcome to Zhaoyu's Personal Website 😃"
 title_separator          : "-"
 name                     : &name "Mu Zhaoyu"
 description              : &description "Final Year Undergraduate Student at NUS School of Computing"
@@ -22,7 +22,7 @@ repository               : "Ella-e/Ella-e.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "zhaoyu_photo_formal.png"
+  avatar           : "Formal_Image.png"
   name             : "Mu Zhaoyu"
   pronouns         : "she/her"  
   bio              : "Final Year Undergraduate Student at NUS School of Computing"
@@ -46,7 +46,7 @@ author:
   bitbucket        : # Username - Update with your username on the site
   codepen          : # Username
   dribbble         : # Username
-  github           : "https://github.com/Ella-e"
+  github           : "Ella-e"
   kaggle           : # Username  
   stackoverflow    : # User number or user number and name (i.e., use "1" or "1/jeff-atwood")    
 
@@ -60,7 +60,7 @@ author:
   keybase          : # Username
   instagram        : # Username
   lastfm           : # Username
-  linkedin         : "Zhaoyu Mu"
+  linkedin         : "zhaoyu-mu-b6b52128a"
   mastodon         : # URL
   medium           : # URL
   pinterest        : # Username
@@ -241,6 +241,7 @@ defaults:
       comments: true
       share: true
       related: true
+      published: false
   # _pages
   - scope:
       path: ""
@@ -257,6 +258,7 @@ defaults:
       author_profile: true
       share: true
       comments: true
+      published: false
   # _publications
   - scope:
       path: ""
@@ -266,6 +268,7 @@ defaults:
       author_profile: true
       share: true
       comments: true
+      published: false
   # _portfolio
   - scope:
       path: ""
@@ -275,6 +278,7 @@ defaults:
       author_profile: true
       share: true
       comment: true
+      published: false
   # _talks
   - scope:
       path: ""
@@ -283,6 +287,7 @@ defaults:
       layout: talk
       author_profile: true
       share: true
+      published: false
 
 
 # Sass/SCSS

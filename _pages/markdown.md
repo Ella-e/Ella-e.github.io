@@ -1,5 +1,6 @@
 ---
-permalink: /markdown/
+# permalink: /markdown/
+permalink: /404/
 title: "Markdown"
 author_profile: true
 redirect_from: 

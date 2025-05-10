@@ -1,5 +1,6 @@
 ---
-permalink: /non-menu-page/
+# permalink: /non-menu-page/
+permalink: /404/
 title: "Page not in menu"
 author_profile: true
 redirect_from: 
