@@ -21,7 +21,7 @@
 .author.me strong{ font-weight:700; color:#111; }
 .pub-authors{color: #777; font-size: 0.8em;}
 .author sup{ font-size:1.2em; }
-.pub-note{ font-size:1em; margin-top:4px; }
+.pub-note{ margin-top:4px; }
 .pub-note sup{ font-size:1.2em; }
 .pub-venue{ color:#777; font-style:italic; margin-bottom:8px; font-size: 0.8em; }
 .pub-links{ display:flex; flex-wrap:wrap; gap:8px; }

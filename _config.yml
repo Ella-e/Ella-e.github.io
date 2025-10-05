@@ -22,7 +22,7 @@ repository               : "Ella-e/Ella-e.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "Personal_Image.png"
+  avatar           : "Personal_image.png"
   name             : "Mu Zhaoyu"
   pronouns         : "she/her"  
   bio              : "Final Year Undergraduate Student at NUS School of Computing"
