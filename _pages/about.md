@@ -33,7 +33,8 @@ Email: mu_zhaoyu@u.nus.edu
   * Conducted in-depth research and experimentation on diverse loss functions and sampling methods for Tencent News' large-scale multi-label text classification network, leading to a 3% improvement in precision.
 
 <link rel="stylesheet" href="{{ '/assets/css/pubs.css' | relative_url }}">
-## Publications <div class="pub-note"><sup>*</sup> equal contribution</div>
+## Publications 
+<div class="pub-note"><sup>*</sup> equal contribution</div>
 
 {% for p in site.data.publications %}
 <div class="pub-card">
@@ -44,8 +45,9 @@ Email: mu_zhaoyu@u.nus.edu
     <h3 class="pub-title">{{ p.title }}</h3>
     <div class="pub-authors">
     {% for a in p.authors %}
-      <span class="author">
-        {{ a.name }}{% if a.equal %}<sup>*</sup>{% endif %}
+      <span class="author{% if a.me %} me{% endif %}">
+        {% if a.me %}<strong>{{ a.name }}</strong>{% else %}{{ a.name }}{% endif %}
+        {% if a.equal %}<sup>*</sup>{% endif %}
       </span>{% unless forloop.last %}, {% endunless %}
     {% endfor %}
     </div>

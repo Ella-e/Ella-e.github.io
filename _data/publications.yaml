@@ -1,13 +1,13 @@
 - title: "ManiLadder : Benchmarking Manipulation Intelligence Frontier via a Categorized and Multi-Level Task Ladder"
   authors: 
-    - { name: "Xuchuan Huang", equal: true }
-    - { name: "Chongkai Gao", equal: true }
-    - { name: "Jieao Shi", equal: true }
-    - { name: "Zhaoyu Mu", equal: true }
-    - { name: "Boren Zheng", equal: false }
-    - { name: "Nga Teng Chan", equal: false }
-    - { name: "Zhuoran Li", equal: false }
-    - { name: "Lin Shao", equal: false }
+    - { name: "Xuchuan Huang", equal: true, me: false }
+    - { name: "Chongkai Gao", equal: true, me: false }
+    - { name: "Jieao Shi", equal: true, me: false }
+    - { name: "Zhaoyu Mu", equal: true, me: true }
+    - { name: "Boren Zheng", equal: false, me: false }
+    - { name: "Nga Teng Chan", equal: false, me: false }
+    - { name: "Zhuoran Li", equal: false, me: false }
+    - { name: "Lin Shao", equal: false, me: false }
   img: /images/publication-thumbs/maniladder.png
   venue: In Submission
   links:

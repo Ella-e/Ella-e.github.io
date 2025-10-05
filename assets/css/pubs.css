@@ -22,7 +22,8 @@
 }
 .pub-body{ flex:1 1 auto; min-width:0; }
 .pub-title{ color: #000; margin:0 0 6px; font-size:1.1rem; line-height:1.35; }
-.author sup{ color:#777; font-size: .75em; line-height: 0; }
+.author.me strong{ font-weight:700; color:#111; }
+.author sup{ color:#777; font-size:.75em; line-height:0; }
 .pub-note{ color:#777; font-size:.9em; margin-top:4px; }
 .pub-venue{ color:#777; font-style:italic; margin-bottom:8px; }
 .pub-links{ display:flex; flex-wrap:wrap; gap:8px; }
