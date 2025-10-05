@@ -11,15 +11,12 @@ main:
 
   # - title: "SE Projects"
   #   url: /publications/
+  - title: "About"
+    url: /about/
 
   - title: "Publications"
     url: /publications/
 
-  - title: "About"
-    url: /about/
-
-  - title: "SE Projects"
-    url: /se-projects/
 
   # - title: "Talks"
   #   url: /talks/    

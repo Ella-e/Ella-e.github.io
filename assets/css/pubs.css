@@ -1,0 +1,16 @@
+.pub-card{
+  display:flex; gap:16px; align-items:flex-start; padding:16px; border-radius:12px;
+  border:1px solid #e6e6e6; background:#fff; margin-bottom:16px;
+}
+.pub-thumb{ flex:0 0 260px; max-width:260px; }
+.pub-thumb img{ width:100%; height:auto; border-radius:8px; display:block; }
+.pub-body{ flex:1 1 auto; min-width:0; }
+.pub-title{ margin:0 0 6px; font-size:1.1rem; line-height:1.35; }
+.pub-authors{ color:#555; margin-bottom:4px; }
+.pub-venue{ color:#777; font-style:italic; margin-bottom:8px; }
+.pub-links{ display:flex; flex-wrap:wrap; gap:8px; }
+.pub-link{ padding:6px 10px; border-radius:8px; border:1px solid #d9d9d9; text-decoration:none; }
+@media (max-width:700px){
+  .pub-card{ flex-direction:column; }
+  .pub-thumb{ max-width:100%; }
+}
