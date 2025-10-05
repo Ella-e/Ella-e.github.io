@@ -9,7 +9,7 @@ redirect_from:
 
 I am a final year Computer Science undergradute at [School of Computing](https://www.comp.nus.edu.sg/), [National University of Singapore](https://www.nus.edu.sg/). 
 
-With a passion in solving real-world problems, my research intersts lie in Embodied AI and Dexterous Manipulation. I am currently doing my Final Year Project about Robot Manipulation under the supervision of Prof. Lin SHAO. I’m actively seeking PhD opportunities beginning in August 2026 and am always open to new collaborations - please feel free to reach out~
+With a passion in solving real-world problems, I have a broad interest in embodied AI with current focus on <strong>robot learning</strong> and <strong>dexterous manipulation</strong>. I am currently doing Final Year Project about Robot Manipulation under the supervision of Prof. [Lin SHAO](https://linsats.github.io/). I’m actively seeking PhD opportunities beginning in August 2026 and am always open to new collaborations - please feel free to reach out~
 
 Email: mu_zhaoyu@u.nus.edu
 
@@ -25,8 +25,8 @@ Email: mu_zhaoyu@u.nus.edu
 
 ## INTERNSHIP & WORK EXPERIENCE
 * Research Intern, Agency For Science and Technology, CFAR, Singapore May 2024 - Aug 2024
-  * Explored diffusion-based dataset distillation methods.
-  * Investigated the impact of mixing real and synthesized images on model performance.
+  * Reproduced a diffusion-based dataset distillation baseline MinimaxDiffusion. 
+  * Authored and deployed code for experimenting effect of mixing original and synthesized images.
 
 * AI Intern, Tencent, Beijing, China Feb 2022 - Jun 2022
   * Proposed and implemented a solution to reduce false positive rates in Tencent Video AI-based Black/Blurred screen detection network; improved model's recall and accuracy by about 5% after deployment online.
