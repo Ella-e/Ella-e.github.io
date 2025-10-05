@@ -2,31 +2,7 @@
 layout: archive
 title: "Publications"
 permalink: /404/
-permalink: /publications/
+<!-- permalink: /publications/ -->
 author_profile: true
 ---
 
-<link rel="stylesheet" href="{{ '/assets/css/pubs.css' | relative_url }}">
-
-{% for p in site.data.publications %}
-<div class="pub-card">
-  <div class="pub-thumb">
-    <img src="{{ p.img | relative_url }}" alt="{{ p.title }}">
-  </div>
-  <div class="pub-body">
-    <h3 class="pub-title">{{ p.title }}</h3>
-    <div class="pub-authors">{{ p.authors }}</div>
-    {% if p.venue %}
-      <div class="pub-venue">{{ p.venue }}</div>
-    {% endif %}
-    {% if p.links %}
-    <div class="pub-links">
-      {% for l in p.links %}
-        <a class="pub-link" href="{{ l.url | relative_url }}" target="_blank" rel="noopener"
-           {% if l.url contains '.pdf' %}download{% endif %}>{{ l.text }}</a>
-      {% endfor %}
-    </div>
-    {% endif %}
-  </div>
-</div>
-{% endfor %}

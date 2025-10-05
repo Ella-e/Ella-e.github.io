@@ -1,6 +1,15 @@
 - title: "ManiLadder : Benchmarking Manipulation Intelligence Frontier via a Categorized and Multi-Level Task Ladder"
-  authors: Xuchuan Huang, Chongkai Gao, Jieao Shi, Zhaoyu Mu, Boren Zheng, Nga Teng Chan, Zhuoran Li, Lin Shao
+  authors: 
+    - { name: "Xuchuan Huang", equal: true }
+    - { name: "Chongkai Gao", equal: true }
+    - { name: "Jieao Shi", equal: true }
+    - { name: "Zhaoyu Mu", equal: true }
+    - { name: "Boren Zheng", equal: false }
+    - { name: "Nga Teng Chan", equal: false }
+    - { name: "Zhuoran Li", equal: false }
+    - { name: "Lin Shao", equal: false }
   img: /images/publication-thumbs/maniladder.png
+  venue: In Submission
   links:
     - text: paper
       url: /files/ICRA26_2486_MS.pdf
