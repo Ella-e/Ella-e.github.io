@@ -15,3 +15,17 @@
       url: /files/ICRA26_2486_MS.pdf
     - text: Website
       url: https://maniladdericra.github.io/
+
+- title: "Functional D(R,O) Grasp: A Language-Guided Cross-Embodiment Functional Dexterous Grasping"
+  authors: 
+    - { name: "Wanqi Zhong", equal: true, me: false }
+    - { name: "Zhixuan Xu", equal: true, me: false }
+    - { name: "Chongkai Gao", equal: false, me: false }
+    - { name: "Zhaoyu Mu", equal: false, me: true }
+    - { name: "Yunfan Low", equal: false, me: false }
+    - { name: "Lin Shao", equal: false, me: false }
+  img: /images/publication-thumbs/functional_dro.png
+  venue: In Submission
+  links:
+    - text: paper
+      url: /files/761_Functional_D_R_O_Grasp_A_L.pdf
