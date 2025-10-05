@@ -9,7 +9,7 @@ redirect_from:
 
 I am a final year Computer Science undergradute at [School of Computing](https://www.comp.nus.edu.sg/), [National University of Singapore](https://www.nus.edu.sg/). 
 
-With a passion in solving real-world problems, my research intersts lie in Embodied AI and Dexterous Manipulation. I’m actively seeking PhD opportunities beginning in August 2026 and am always open to new collaborations - please feel free to reach out~
+With a passion in solving real-world problems, my research intersts lie in Embodied AI and Dexterous Manipulation. I am currently doing my Final Year Project about Robot Manipulation under the supervision of Prof. Lin SHAO. I’m actively seeking PhD opportunities beginning in August 2026 and am always open to new collaborations - please feel free to reach out~
 
 Email: mu_zhaoyu@u.nus.edu
 
