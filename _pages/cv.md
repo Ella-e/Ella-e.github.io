@@ -1,14 +1,16 @@
 ---
 layout: archive
 title: "CV"
-# permalink: /cv/
-permalink: /404/
+permalink: /cv/
+# permalink: /404/
 author_profile: true
-redirect_from:
-  - /resume
+redirect_to:
+  - /files/MU_Zhaoyu_CV.pdf
 ---
 
 {% include base_path %}
+
+<!-- <a class="pub-link" href="/files/MU_Zhaoyu_CV.pdf" target="_blank" rel="noopener">{{ l.text }}</a> -->
 
 <!-- Publications
 ======
