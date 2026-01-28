@@ -5,7 +5,7 @@ permalink: /cv/
 # permalink: /404/
 author_profile: true
 redirect_to:
-  - /files/Mu_Zhaoyu_CV.pdf
+  - /files/MU_Zhaoyu_CV.pdf
 ---
 
 {% include base_path %}
