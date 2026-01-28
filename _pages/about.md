@@ -33,7 +33,7 @@ Email: mu_zhaoyu@u.nus.edu
   * Conducted in-depth research and experimentation on diverse loss functions and sampling methods for Tencent News' large-scale multi-label text classification network, leading to a 3% improvement in precision.
 
 <link rel="stylesheet" href="{{ '/assets/css/pubs.css' | relative_url }}">
-## Publications 
+## Publications & Preprints
 <div class="pub-note"><sup>*</sup> equal contribution</div>
 
 {% for p in site.data.publications %}
