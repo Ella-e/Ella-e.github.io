@@ -6,10 +6,11 @@ redirect_from:
   - /about/
   - /about.html
 ---
+I am currently an M.S. student in Electrical and Computer Engineering at UC San Diego, specializing in Intelligent Systems, Robotics & Control.
 
-I am a final year Computer Science undergradute at [School of Computing](https://www.comp.nus.edu.sg/), [National University of Singapore](https://www.nus.edu.sg/). 
+With a passion for solving real-world problems, I have a broad interest in embodied AI with a current focus on <strong>robot learning</strong> and <strong>dexterous manipulation</strong>. I’m actively exploring PhD opportunities and am always open to new collaborations - please feel free to reach out~
 
-With a passion for solving real-world problems, I have a broad interest in embodied AI with a current focus on <strong>robot learning</strong> and <strong>dexterous manipulation</strong>. I am currently an M.S. student in Electrical and Computer Engineering at UC San Diego, specializing in Intelligent Systems, Robotics & Control. I received my bachelor’s degree in Computer Science from the School of Computing at the National University of Singapore (NUS). I’m actively exploring PhD opportunities and am always open to new collaborations - please feel free to reach out~
+Previously, I received my bachelor’s degree in Computer Science from the School of Computing at the National University of Singapore (NUS). 
 
 Email: zhmu@ucsd.edu
 
