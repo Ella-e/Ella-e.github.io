@@ -1,18 +1,25 @@
 - title: "ManiLadder : Benchmarking Manipulation Intelligence Frontier via a Categorized and Multi-Level Task Ladder"
   authors: 
-    - { name: "Xuchuan Huang", equal: true, me: false }
     - { name: "Chongkai Gao", equal: true, me: false }
     - { name: "Jieao Shi", equal: true, me: false }
     - { name: "Zhaoyu Mu", equal: true, me: true }
-    - { name: "Boren Zheng", equal: false, me: false }
-    - { name: "Nga Teng Chan", equal: false, me: false }
+    - { name: "Yudi Lin", equal: false, me: false }
+    - { name: "Xuanwei Liu", equal: false, me: false }
+    - { name: "Wei Ken Ng", equal: false, me: false }
+    - { name: "Baiye Cheng", equal: false, me: false }
+    - { name: "Anqi Chen", equal: false, me: false }
+    - { name: "Kerun Liu", equal: false, me: false }
     - { name: "Zhuoran Li", equal: false, me: false }
+    - { name: "Xuchuan Huang", equal: false, me: false }
+    - { name: "Shengjia Zhu", equal: false, me: false }
+    - { name: "Nga Teng Chan", equal: false, me: false }
+    - { name: "Xingyu Chen", equal: false, me: false }
     - { name: "Lin Shao", equal: false, me: false }
   img: /images/publication-thumbs/maniladder.png
   venue: In Submission
   links:
     - text: paper
-      url: /files/ICRA26_2486_MS.pdf
+      url: /files/ManiLadder.pdf
     - text: Website
       url: https://maniladdericra.github.io/
 
