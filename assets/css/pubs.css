@@ -190,6 +190,18 @@
   margin-bottom: 0;
 }
 
+.pub-note sup,
+.pub-authors sup {
+  display: inline-block;
+  font-size: 1.2em;
+  line-height: 0;
+  vertical-align: baseline;
+  position: relative;
+  top: -0.12em;
+  margin: 0;
+  padding: 0;
+}
+
 /* 首页正文：简介、News 等 */
 #main:has(.pub-card) .page__content {
   font-size: 17px;

@@ -37,8 +37,7 @@ Email: zhmu@ucsd.edu
     <div class="pub-authors">
     {% for a in p.authors %}
       <span class="author{% if a.me %} me{% endif %}">
-        {% if a.me %}<strong>{{ a.name }}</strong>{% else %}{{ a.name }}{% endif %}
-        {% if a.equal %}<sup>*</sup>{% endif %}
+        {% if a.me %}<strong>{{ a.name }}</strong>{% else %}{{ a.name }}{% endif %}{% if a.equal %}<sup>*</sup>{% endif %}
       </span>{% unless forloop.last %}, {% endunless %}
     {% endfor %}
     </div>
