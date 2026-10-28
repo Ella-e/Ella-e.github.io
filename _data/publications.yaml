@@ -34,7 +34,7 @@
     - { name: "Nga Teng Chan", equal: false, me: false }
     - { name: "Xingyu Chen", equal: false, me: false }
     - { name: "Lin Shao", equal: false, me: false }
-  img: /images/publication-thumbs/maniladder_iros2026.png
+  img: /images/publication-thumbs/maniLadder_iros2026.png
   venue: IROS 2026 Workshop on Rethinking Bimanual Manipulation Beyond Single-Arm Policies
   award: Outstanding Paper Award
   links:
