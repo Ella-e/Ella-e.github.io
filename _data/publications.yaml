@@ -1,3 +1,22 @@
+- title: "T(R,O) Grasp++: Cross-Embodiment Dexterous Grasping in Cluttered Environments at Scale"
+  authors: 
+    - { name: "Xin Fei", equal: false, me: false }
+    - { name: "Zhixuan Xu", equal: false, me: false }
+    - { name: "Huaicong Fang", equal: false, me: false }
+    - { name: "Fangjun Chen", equal: false, me: false }
+    - { name: "Zhaoyu Mu", equal: false, me: true }
+    - { name: "Rui Yang", equal: false, me: false }
+    - { name: "Zhexi Luo", equal: false, me: false }
+    - { name: "Lin Shao", equal: false, me: false }
+  img: /images/publication-thumbs/TRO++.png
+  venue: Conference on Robot Learning (CoRL) 2026
+  links:
+    - text: Website
+      url: https://nus-lins-lab.github.io/TROGrasp2Web/
+    - text: paper
+      url: https://arxiv.org/abs/2610.25410
+
+
 - title: "ManiLadder : Benchmarking Manipulation Intelligence Frontier via a Categorized and Multi-Level Task Ladder"
   authors: 
     - { name: "Chongkai Gao", equal: true, me: false }
@@ -15,13 +34,12 @@
     - { name: "Nga Teng Chan", equal: false, me: false }
     - { name: "Xingyu Chen", equal: false, me: false }
     - { name: "Lin Shao", equal: false, me: false }
-  img: /images/publication-thumbs/maniladder.png
-  venue: In Submission
+  img: /images/publication-thumbs/maniladder_iros2026.png
+  venue: IROS 2026 Workshop on Rethinking Bimanual Manipulation Beyond Single-Arm Policies
+  award: Outstanding Paper Award
   links:
     - text: paper
-      url: /files/ManiLadder.pdf
-    - text: Website
-      url: https://maniladdericra.github.io/
+      url: https://openreview.net/forum?id=LgUpMaBqCb
 
 - title: "Functional D(R,O) Grasp: A Language-Guided Cross-Embodiment Functional Dexterous Grasping"
   authors: 

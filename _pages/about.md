@@ -6,34 +6,24 @@ redirect_from:
   - /about/
   - /about.html
 ---
-I am currently an M.S. student in Electrical and Computer Engineering at UC San Diego, specializing in Intelligent Systems, Robotics & Control.
 
-With a passion for solving real-world problems, I have a broad interest in embodied AI with a current focus on <strong>robot learning</strong> and <strong>dexterous manipulation</strong>. I’m actively exploring PhD opportunities and am always open to new collaborations - please feel free to reach out~
+<link rel="stylesheet" href="{{ '/assets/css/pubs.css' | relative_url }}">
 
-Previously, I received my bachelor’s degree in Computer Science from the School of Computing at the National University of Singapore (NUS). 
+I am an M.S. student in Electrical and Computer Engineering at UC San Diego, specializing in Intelligent Systems, Robotics & Control. Previously, I received my bachelor’s degree in Computer Science from the National University of Singapore.
+
+My interests lie broadly in embodied AI, with a current focus on <strong>robot learning</strong> and <strong>dexterous manipulation</strong>. My experience spans manipulation benchmarks, learning-based methods, and real-world robot experiments. I am interested in building robotic systems that can perform tasks reliably in everyday environments and are intuitive for people to work with.
+
+I am exploring PhD, research, and internship opportunities in robotics, and I welcome opportunities to collaborate. Please feel free to reach out!
 
 Email: zhmu@ucsd.edu
 
-## SELECTED COURSEWORK
-- **CS3263 Foundations of Artificial Intelligence:**
-  Knowledge representation and reasoning with uncertainty; Bayesian networks; Markov Decision Process
+## News
+- **[Sep 2026]** <a href="https://nus-lins-lab.github.io/TROGrasp2Web/" style="text-decoration: none; border-bottom: none; box-shadow: none; color: #6baed6; "><strong>T(R,O) Grasp++</strong></a> was accepted to CoRL 2026!
+- **[Sep 2026]** <a href="https://openreview.net/forum?id=LgUpMaBqCb" style="text-decoration: none; border-bottom: none; box-shadow: none; color: #6baed6;"><strong>ManiLadder</strong></a> was accepted to the IROS 2026 Workshop on Rethinking Bimanual Manipulation Beyond Single-Arm Policies and received the <span class="award-badge">Outstanding Paper Award</span>!
+- **[Sep 2026]** A new chapter in San Diego⛵️🌵☀️! I began my M.S. in Electrical and Computer Engineering at UC San Diego, focusing on Intelligent Systems, Robotics & Control.
+- **[Jun 2026]** Graduated from NUS with a Bachelor of Computing (Computer Science), Honours (Highest Distinction), and a Minor in Mathematics! 🦁🎓
 
-- **CS4278 Intelligent Robots: Algorithms and Systems:**
-  Kinematics; Theory and Models of Grasping; Motion Planning; State Estimation; Deep Reinforcement Learning
 
-- **CS3210 Parallel Computing:**
-  Theory of parallelism and models; shared-memory, distributed-memory, and data parallel architectures; CUDA and GPGPU programming
-
-## INTERNSHIP & WORK EXPERIENCE
-* Research Intern, Agency For Science and Technology, CFAR, Singapore May 2024 - Aug 2024
-  * Reproduced a diffusion-based dataset distillation baseline MinimaxDiffusion. 
-  * Authored and deployed code for experimenting effect of mixing original and synthesized images.
-
-* AI Intern, Tencent, Beijing, China Feb 2022 - Jun 2022
-  * Proposed and implemented a solution to reduce false positive rates in Tencent Video AI-based Black/Blurred screen detection network; improved model's recall and accuracy by about 5% after deployment online.
-  * Conducted in-depth research and experimentation on diverse loss functions and sampling methods for Tencent News' large-scale multi-label text classification network, leading to a 3% improvement in precision.
-
-<link rel="stylesheet" href="{{ '/assets/css/pubs.css' | relative_url }}">
 ## Publications & Preprints
 <div class="pub-note"><sup>*</sup> equal contribution</div>
 
@@ -55,6 +45,10 @@ Email: zhmu@ucsd.edu
     {% if p.venue %}
       <div class="pub-venue">{{ p.venue }}</div>
     {% endif %}
+
+    {% if p.award %}
+      <div class="pub-award">{{ p.award }}</div>
+    {% endif %}
     {% if p.links %}
     <div class="pub-links">
       {% for l in p.links %}
@@ -65,3 +59,22 @@ Email: zhmu@ucsd.edu
   </div>
 </div>
 {% endfor %}
+
+<!-- ## SELECTED COURSEWORK
+- **CS3263 Foundations of Artificial Intelligence:**
+  Knowledge representation and reasoning with uncertainty; Bayesian networks; Markov Decision Process
+
+- **CS4278 Intelligent Robots: Algorithms and Systems:**
+  Kinematics; Theory and Models of Grasping; Motion Planning; State Estimation; Deep Reinforcement Learning
+
+- **CS3210 Parallel Computing:**
+  Theory of parallelism and models; shared-memory, distributed-memory, and data parallel architectures; CUDA and GPGPU programming -->
+
+<!-- ## INTERNSHIP & WORK EXPERIENCE
+* Research Intern, Agency For Science and Technology, CFAR, Singapore May 2024 - Aug 2024
+  * Reproduced a diffusion-based dataset distillation baseline MinimaxDiffusion. 
+  * Authored and deployed code for experimenting effect of mixing original and synthesized images.
+
+* AI Intern, Tencent, Beijing, China Feb 2022 - Jun 2022
+  * Proposed and implemented a solution to reduce false positive rates in Tencent Video AI-based Black/Blurred screen detection network; improved model's recall and accuracy by about 5% after deployment online.
+  * Conducted in-depth research and experimentation on diverse loss functions and sampling methods for Tencent News' large-scale multi-label text classification network, leading to a 3% improvement in precision. -->
