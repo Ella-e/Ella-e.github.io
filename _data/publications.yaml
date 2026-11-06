@@ -11,7 +11,7 @@
   img: /images/publication-thumbs/TRO++.png
   venue: Conference on Robot Learning (CoRL) 2026
   links:
-    - text: Website
+    - text: website
       url: https://nus-lins-lab.github.io/TROGrasp2Web/
     - text: paper
       url: https://arxiv.org/abs/2610.25410
@@ -38,6 +38,8 @@
   venue: IROS 2026 Workshop on Rethinking Bimanual Manipulation Beyond Single-Arm Policies
   award: Outstanding Paper Award
   links:
+    - text: website
+      url: https://maniladder.github.io/
     - text: paper
       url: https://openreview.net/forum?id=LgUpMaBqCb
 
@@ -54,5 +56,5 @@
   links:
     - text: paper
       url: files/Functional_D(R,O)_Grasp.pdf
-    - text: Website
+    - text: website
       url: https://functionaldro.github.io/
